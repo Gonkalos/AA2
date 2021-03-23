@@ -1,0 +1,10 @@
+# create environment: conda env create --file environment.yml
+
+name: cd_aa2
+
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
