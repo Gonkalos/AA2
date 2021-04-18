@@ -1,10 +1,15 @@
-# create environment: conda env create --file environment.yml
+# create environment: conda env create -f environment.yml
+# update environment: conda env update -n mlfa_csc -f environment.yml
 
 name: cd_aa2
 
 dependencies:
   - python
+  - pip
+  - ipykernel
   - pandas
   - numpy
   - matplotlib
   - scikit-learn
+  - pip:
+    - tensorflow
