@@ -1,2 +1,1 @@
-# AA2
-[MIEI] Aprendizagem Automática II
+# Aprendizagem Automática II
