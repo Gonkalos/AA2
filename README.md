@@ -1,3 +1,3 @@
 ## Description
 
-[Classes](Classes) and [project](Deepmol) associated with the curricular unit 'Aprendizagem Automática II' from the computer engineering course.
+[Classes](Classes) and [project](DeepMol) associated with the curricular unit 'Aprendizagem Automática II' from the computer engineering course.
